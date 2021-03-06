@@ -1,0 +1,22 @@
+{
+  "name": "fluency_simple_proof_of_work",
+  "version": "1.0.0",
+  "description": "Simple Proof of Work for Fluency",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miquelcabot/fluency_simple_proof_of_work.git"
+  },
+  "author": "Miquel A. Cabot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miquelcabot/fluency_simple_proof_of_work/issues"
+  },
+  "homepage": "https://github.com/miquelcabot/fluency_simple_proof_of_work#readme",
+  "dependencies": {
+    "increment-buffer": "^1.0.1"
+  }
+}
