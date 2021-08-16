@@ -1,5 +1,5 @@
-# fluency_simple_proof_of_work
-Simple Proof of Work for Fluency
+# fl_simple_proof_of_work
+Simple Proof of Work Test
 
 ## Requisites
 * [NodeJS](https://nodejs.org/)
